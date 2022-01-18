@@ -1,3 +1,4 @@
+import numpy as np
 def simpleLinearRegression(x,y,target):
     # pearson R
     x_bar = np.mean(x)
